@@ -1,7 +1,5 @@
-### Cplusplus-Program - Joseph Dengler
-# Summary - CS210
-
-- The program is extremely well-documented within detailed comments. 
+### C++ Frequency Program - Joseph Dengler
+# Summary
   The program successfully resulted in a command-line tool for counting the frequency of items in a file.
   Once the program is running, you will be presented with a menu of options:
     * Get item frequency
